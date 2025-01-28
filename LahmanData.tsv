@@ -1,0 +1,28 @@
+file	class	nobs	nvar	title
+AllstarFull	data.frame	5454	8	AllstarFull table
+Appearances	data.frame	110423	21	Appearances table
+AwardsManagers	data.frame	179	6	AwardsManagers table
+AwardsPlayers	data.frame	6531	6	AwardsPlayers table
+AwardsShareManagers	data.frame	425	7	AwardsShareManagers table
+AwardsSharePlayers	data.frame	6879	7	AwardsSharePlayers table
+Batting	data.frame	110495	22	Batting table
+BattingPost	data.frame	15879	22	BattingPost table
+CollegePlaying	data.frame	17350	3	CollegePlaying table
+Fielding	data.frame	147080	18	Fielding table
+FieldingOF	data.frame	12028	6	FieldingOF table
+FieldingOFsplit	data.frame	34563	18	FieldingOFsplit table
+FieldingPost	data.frame	15063	17	FieldingPost data
+HallOfFame	data.frame	4191	9	Hall of Fame Voting Data
+HomeGames	data.frame	3195	9	HomeGames table
+Managers	data.frame	3684	10	Managers table
+ManagersHalf	data.frame	93	10	ManagersHalf table
+Parks	data.frame	255	6	Parks table
+People	data.frame	20370	26	People table
+Pitching	data.frame	49430	30	Pitching table
+PitchingPost	data.frame	6308	30	PitchingPost table
+Salaries	data.frame	26428	5	Salaries table
+Schools	data.frame	1207	5	Schools table
+SeriesPost	data.frame	367	9	SeriesPost table
+Teams	data.frame	2985	48	Teams table
+TeamsFranchises	data.frame	120	4	TeamFranchises table
+TeamsHalf	data.frame	52	10	TeamsHalf table

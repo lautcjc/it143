@@ -1,0 +1,23 @@
+variable	label
+playerID	Player ID code
+yearID	Year
+stint	Player's stint
+teamID	Team
+lgID	League
+G	Games
+AB	At Bats
+R	Runs
+H	Hits
+X2B	Doubles
+X3B	Triples
+HR	Homeruns
+RBI	Runs Batted In
+SB	Stolen Bases
+CS	Caught Stealing
+BB	Base on Balls
+SO	Strikeouts
+IBB	Intentional walks
+HBP	Hit by pitch
+SH	Sacrifice hits
+SF	Sacrifice flies
+GIDP	Grounded into double plays

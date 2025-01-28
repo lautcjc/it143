@@ -1,0 +1,19 @@
+variable	label
+playerID	Player ID code
+yearID	Year
+stint	Player's stint
+teamID	Team
+lgID	League
+Pos	Position
+G	Games 
+GS	Games Started
+InnOuts	Time played in the field (outs)
+PO	Putouts
+A	Assists
+E	Errors
+DP	Double Plays
+PB	Passed Balls (by catchers)
+WP	Wild Pitches (by catchers)
+SB	Opponent Stolen Bases (by catchers)
+CS	Opponents Caught Stealing (by catchers)
+ZR	Zone Rating
